@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PropinasCalculator</string>
+    <string name="propina">Cantidad propina</string>
+    <string name="editTextImporte">Importe del servicio</string>
+</resources>
